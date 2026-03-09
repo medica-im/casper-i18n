@@ -7,6 +7,9 @@
 The same [casper](https://github.com/TryGhost/Casper), but with localization support.  
 For more detailed information about theme, see the [casper page](https://github.com/TryGhost/Casper).  
 
+## Deprecation warning
+⚠️ Since version [5.10.0](https://github.com/TryGhost/Casper/releases/tag/v5.10.0), the [Casper](https://github.com/TryGhost/Casper) theme officially supports localization, so **this fork is no longer maintained**.  
+
 ## Available languages
 
 - Chinese (zh)
